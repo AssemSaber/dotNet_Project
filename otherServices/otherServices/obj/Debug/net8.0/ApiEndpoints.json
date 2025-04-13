@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "otherServices.Controllers.AccountController",
+    "Method": "acceptAccount",
+    "RelativePath": "api/Account/acceptAccount/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDto",
+        "Type": "otherServices.Data_Project.Models.UserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.AccountController",
+    "Method": "deleteAccount",
+    "RelativePath": "api/Account/delettAccount/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDto",
+        "Type": "otherServices.Data_Project.Models.UserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.MessageController",
+    "Method": "sendMessageAsync",
+    "RelativePath": "api/Message/sendMessage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MessageDTo",
+        "Type": "otherServices.Data_Project.Models.MessageDTo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.PostController",
+    "Method": "SavePost",
+    "RelativePath": "api/Post/savePost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SavePostDTo",
+        "Type": "otherServices.Data_Project.Models.SavePostDTo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.PostController",
+    "Method": "showPosts",
+    "RelativePath": "api/Post/showPosts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.PostController",
+    "Method": "getWaitingposts",
+    "RelativePath": "api/Post/waitingPosts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.UserController",
+    "Method": "showSavedPosts",
+    "RelativePath": "api/User/showSavedPosts/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "otherServices.Controllers.UserController",
+    "Method": "getwaitinglandlords",
+    "RelativePath": "api/User/waitingLandlords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

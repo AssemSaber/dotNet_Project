@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\service\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\service\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\savedpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\savepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\savepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\data_project\\models\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\data_project\\models\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|e:\\dotnet_ia\\ia-pro\\back_end\\otherservices\\otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC80C4BA-63A2-4C0A-A45A-45380FAC9094}|otherServices\\otherServices.csproj|solutionrelative:otherservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\service\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\service\\KafkaProducerService.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\service\\KafkaProducerService.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\service\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:26:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageDTo.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\MessageDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\MessageDTo.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\MessageDTo.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\MessageDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:50:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:46:21.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\PostController.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\PostController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:20:51.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\UserController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:55:36.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\UserUpdateDto.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\UserUpdateDto.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:15:56.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeDocumentMoniker": "otherServices\\Program.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Program.cs",
+              "RelativeToolTip": "otherServices\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:10:59.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\Message.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\Message.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\Message.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:54:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "otherServices\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "otherServices\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:09:43.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavePostDTo.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\SavePostDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\SavePostDTo.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\SavePostDTo.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\SavePostDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:46:16.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostDTo.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\PostDTo.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\PostDTo.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\PostDTo.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\PostDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:35:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavedPostDto.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\SavedPostDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\SavedPostDto.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\SavedPostDto.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\SavedPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:21:52.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "otherServices\\Data_Project\\Models\\UserDto.cs",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\Data_Project\\Models\\UserDto.cs",
+              "RelativeToolTip": "otherServices\\Data_Project\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:22:17.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeDocumentMoniker": "otherServices\\appsettings.json",
+              "ToolTip": "E:\\dotNet_IA\\IA-pro\\back_end\\otherServices\\otherServices\\appsettings.json",
+              "RelativeToolTip": "otherServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T13:40:24.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
