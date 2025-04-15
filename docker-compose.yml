@@ -1,0 +1,35 @@
+services:
+  message_app:
+    build:
+      context: .
+      dockerfile: Message_app/dockerfile
+    networks:
+      - connectedServices
+    expose:
+      - 8080:8080
+    ports:
+      - 8080:8080
+
+
+  other_service:
+    build:
+      context: .
+      dockerfile: otherServices/dockerfile
+    expose:
+      - 8080:8080
+    ports:
+      - 8081:8080
+    depends_on:
+      - message_app
+    networks:
+      - connectedServices
+
+
+
+networks:
+  connectedServices:
+volumes:
+  message_app_data:
+    driver: local
+  other_service_data:
+    driver: local
